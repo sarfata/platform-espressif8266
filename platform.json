@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "~1.20300.1"
+      "version": "~1.20400.0"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
